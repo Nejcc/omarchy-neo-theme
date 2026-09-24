@@ -37,7 +37,7 @@ Cycle through them with `omarchy theme bg next`.
 
 ![Neo unlock screen](preview-unlock.png)
 
-This theme includes a teal version of the Omarchy logo for the disk-unlock screen you see at boot. To use it, open **Omarchy menu → Style → Unlock** and pick Neo. This step needs sudo.
+This theme includes an ice-blue version of the Omarchy logo for the disk-unlock screen you see at boot. To use it, open **Omarchy menu → Style → Unlock** and pick Neo. This step needs sudo.
 
 ## Also themed
 
