@@ -1,6 +1,6 @@
 # Neo — Omarchy theme
 
-A darker take on Omarchy's default Tokyo Night, with a teal accent and a frosted-ice wallpaper.
+A frosty take on Omarchy's default Tokyo Night: blue-black backgrounds, icy blue accents, cool mint and lavender syntax colors, and a frosted-ice wallpaper.
 
 ![Neo desktop](preview.png)
 
@@ -16,14 +16,15 @@ Switch back to it any time with `omarchy theme set neo`.
 
 | Role | Color | | Role | Color |
 |---|---|---|---|---|
-| Background | `#0f111a` | | Accent / cyan | `#2ac3de` |
-| Dark background | `#0b0c13` | | Blue | `#7aa2f7` |
-| Lighter background | `#1a1d2b` | | Magenta | `#bb9af7` |
-| Selection | `#1f2335` | | Green | `#9ece6a` |
-| Foreground | `#a9b1d6` | | Yellow | `#e0af68` |
-| Bright foreground | `#c0caf5` | | Red | `#f7768e` |
+| Background | `#0c1119` | | Accent | `#7dcfff` |
+| Dark background | `#090d14` | | Cyan | `#5fd4f0` |
+| Lighter background | `#152030` | | Blue | `#7aa2f7` |
+| Selection | `#1b2a3a` | | Magenta | `#b9a4f7` |
+| Muted | `#56708c` | | Green | `#94e2b8` |
+| Foreground | `#b0c4d8` | | Yellow | `#e6c47a` |
+| Bright foreground | `#e6f4ff` | | Red | `#f7768e` |
 
-The full palette is in [`colors.toml`](colors.toml). Omarchy generates the terminal, Hyprland, btop and other app configs from it.
+The full palette is in [`colors.toml`](colors.toml). Omarchy generates everything else from it: terminals, Hyprland, btop, Neovim (through [aether.nvim](https://github.com/bjarneo/aether.nvim)) and a VS Code theme. The editors therefore match your terminal exactly.
 
 ## Wallpapers
 
@@ -40,6 +41,5 @@ This theme includes a teal version of the Omarchy logo for the disk-unlock scree
 
 ## Also themed
 
-- Icons: `Yaru-prussiangreen`
-- Keyboard backlight: `#2ac3de`
-- Neovim and VS Code: the Tokyo Night colorschemes (`tokyonight-night` in Neovim, `enkia.tokyo-night` in VS Code)
+- Icons: `Yaru-blue`
+- Keyboard backlight: `#7dcfff`
